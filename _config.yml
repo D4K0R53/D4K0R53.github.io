@@ -1,2 +1,3 @@
 name: D4K0R53, Namba1MH Syndicate
     markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
