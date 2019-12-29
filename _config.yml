@@ -1,5 +1,4 @@
 name: Muruk Spikes - D4K0R53
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
-disqus:
-    shortname: <d4k0r53.disqus.com>
+disqus_shortname: < d4k0r53.disqus.com >
